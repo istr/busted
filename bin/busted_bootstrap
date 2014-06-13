@@ -4,7 +4,7 @@ local cli = require 'cliargs'
 local utils = require 'pl.utils'
 local path = require 'pl.path'
 local tablex = require 'pl.tablex'
-local busted = require 'busted'
+local busted = require 'busted.core'
 
 local defaultoutput = busted.defaultoutput
 local defaultpattern = busted.defaultpattern

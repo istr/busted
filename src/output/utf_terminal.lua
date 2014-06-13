@@ -4,7 +4,7 @@
 --  output.currently_executing
 
 local ansicolors = require "ansicolors"
-local s = require 'say'
+local s = require 'say.init'
 
 local output = function()
   local pending_description = function(status, options)

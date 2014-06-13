@@ -3,7 +3,7 @@
 --  output.descriptive_status
 --  output.currently_executing
 
-local s = require 'say'
+local s = require 'say.init'
 
 local output = function()
   local success_string = function(test_index, test_status)

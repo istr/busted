@@ -1,4 +1,4 @@
-local s = require('say')
+local s = require('say.init')
 
 s:set_namespace("ua")
 
