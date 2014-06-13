@@ -1,7 +1,7 @@
 Busted
 ======
 
-[![travis-ci status](https://secure.travis-ci.org/Olivine-Labs/busted.png)](http://travis-ci.org/#!/Olivine-Labs/busted/builds)
+[![travis-ci status](https://secure.travis-ci.org/istr/busted.png)](http://travis-ci.org/#!/istr/busted/builds)
 
 busted is a unit testing framework with a focus on being **easy to
 use**. Supports Lua >= 5.1, luajit >= 2.0.0, and moonscript.
