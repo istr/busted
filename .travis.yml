@@ -21,3 +21,4 @@ script: busted spec
 branches:
   except:
     - gh-pages
+
